@@ -20,9 +20,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 152572632
-  numberOfFiles: 16
-  numberOfSubjects: 16
+  numberOfBytes: 355176590
+  numberOfFiles: 36
+  numberOfSubjects: 36
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_7955
@@ -57,6 +57,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-11-11T16:13:14.852155+00:00'
+datePublished: '2025-08-14T19:08:18.531895+00:00'
 description: Fish swimming behavior in thermal gradient from 18C to 26C in the light
 ethicsApproval: []
 id: DANDI:000707/draft
@@ -68,6 +69,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000707/versions/draft/assets/
 name: Gradient behavior 18C to 26C
 protocol: []
+publishedBy:
+  endDate: '2025-08-14T19:08:18.531895+00:00'
+  id: urn:uuid:97d22617-e86f-499c-9c74-b237b2b7c283
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-08-14T19:08:18.531895+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f4435ef0-331a-4c8d-bf96-100fac5ab9ee
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
