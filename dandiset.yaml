@@ -35,7 +35,7 @@ assetsSummary:
   - Position
   - CompassDirection
 citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Gradient behavior 18C
-  to 26C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000707/draft
+  to 26C (Version 0.250814.1908) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000707/0.250814.1908
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -59,14 +59,15 @@ contributor:
 dateCreated: '2023-11-11T16:13:14.852155+00:00'
 datePublished: '2025-08-14T19:08:18.531895+00:00'
 description: Fish swimming behavior in thermal gradient from 18C to 26C in the light
+doi: 10.48324/dandi.000707/0.250814.1908
 ethicsApproval: []
-id: DANDI:000707/draft
+id: DANDI:000707/0.250814.1908
 identifier: DANDI:000707
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000707/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000707/0.250814.1908/assets.yaml
 name: Gradient behavior 18C to 26C
 protocol: []
 publishedBy:
@@ -86,6 +87,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000707/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000707/0.250814.1908
+version: 0.250814.1908
 wasGeneratedBy: []
